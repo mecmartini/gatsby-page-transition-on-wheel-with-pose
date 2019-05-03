@@ -1,8 +1,7 @@
-# Example of using React-Pose with Gatsby for page transitions
+# Example of using React-Pose with Gatsby for page transitions to create a Full Page vertical slider on Wheel
 
-A fork of the official Gatsby Starter Default v2 with added simple page transitions using Popmotion's React-Pose.
+A fork of the official Gatsby Starter Default v2 with added simple page transitions using Popmotion's React-Pose to create a Full Page vertical slider that acts onWheel SyntheticEvent of React
 
 ## Heavily inspired by
 
-- [Route transitions with Reach Router](https://popmotion.io/pose/learn/route-transitions-reach-router/)
-- [Official Gatsby example using-page-transitions](https://github.com/gatsbyjs/gatsby/tree/master/examples/using-page-transitions)
+- [Example of using React-Pose with Gatsby for page transitions](https://github.com/VilhelmNielsen/gatsby-with-react-pose)
